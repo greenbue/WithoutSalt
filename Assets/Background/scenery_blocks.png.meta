@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 94c3bed2471e75248acc0cde8c8ac16d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: a1_block_square
+    21300002: a2_block_square
+    21300004: a3_block_square
+    21300006: a1_block_tall
+    21300008: a2_block_tall
+    21300010: a3_block_tall
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: a1_block_square
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 722
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_block_square
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 722
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_block_square
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 722
+        width: 287
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a1_block_tall
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 293
+        height: 605
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_block_tall
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 16
+        width: 290
+        height: 605
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_block_tall
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 16
+        width: 291
+        height: 605
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

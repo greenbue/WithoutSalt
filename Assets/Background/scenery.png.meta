@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 7162f2e00fcda194bb3a0b1dc065a153
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: a1_grass_green
+    21300002: a2_grass_yellow
+    21300004: a2_grass_brown
+    21300006: a1_grass_lgreen
+    21300008: a2_tuft_yellow
+    21300010: a2_tuft_brown
+    21300012: a2_tuft_lbrown
+    21300014: a1_tallgrass_green
+    21300016: a2_tallgrass_yellow
+    21300018: a1_wgrass_green
+    21300020: a2_wgrass_yellow
+    21300022: a2_wgrass_brown
+    21300024: a1_wgrass_lgreen
+    21300026: a3_srock_dark
+    21300028: a3_srock_even
+    21300030: a3_srock_tip
+    21300032: a2_srock_dark
+    21300034: a2_srock_even
+    21300036: a2_srock_tip
+    21300038: a3_lrock_dark
+    21300040: a3_lrock_tip
+    21300042: a3_mrock_tip
+    21300044: a2_lrock_dark
+    21300046: a2_lrock_tip
+    21300048: a2_mrock_tip
+    21300050: vine_1
+    21300052: vine_2
+    21300054: vine_3
+    21300056: vine_4
+    21300058: vine_5
+    21300060: vine_6
+    21300062: vine_7
+    21300064: vine_8
+    21300066: vine_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: a1_grass_green
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1743
+        width: 101
+        height: 188
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_grass_yellow
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1743
+        width: 102
+        height: 188
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_grass_brown
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1743
+        width: 101
+        height: 188
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a1_grass_lgreen
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1743
+        width: 101
+        height: 188
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_tuft_yellow
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1746
+        width: 120
+        height: 146
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_tuft_brown
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1746
+        width: 106
+        height: 146
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_tuft_lbrown
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1746
+        width: 106
+        height: 146
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a1_tallgrass_green
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1746
+        width: 80
+        height: 250
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_tallgrass_yellow
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1747
+        width: 80
+        height: 250
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a1_wgrass_green
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1508
+        width: 125
+        height: 204
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_wgrass_yellow
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1508
+        width: 125
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_wgrass_brown
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1508
+        width: 124
+        height: 204
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a1_wgrass_lgreen
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1508
+        width: 125
+        height: 207
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_srock_dark
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1327
+        width: 270
+        height: 116
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_srock_even
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1327
+        width: 270
+        height: 116
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_srock_tip
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1327
+        width: 270
+        height: 116
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_srock_dark
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1327
+        width: 270
+        height: 116
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_srock_even
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1327
+        width: 270
+        height: 116
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_srock_tip
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1327
+        width: 269
+        height: 116
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_lrock_dark
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 760
+        width: 296
+        height: 367
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_lrock_tip
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 760
+        width: 296
+        height: 367
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3_mrock_tip
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 760
+        width: 183
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_lrock_dark
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 760
+        width: 296
+        height: 367
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_lrock_tip
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 760
+        width: 296
+        height: 367
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2_mrock_tip
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 760
+        width: 183
+        height: 233
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 58
+        width: 133
+        height: 584
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 58
+        width: 175
+        height: 580
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 58
+        width: 127
+        height: 584
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 54
+        width: 80
+        height: 591
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 54
+        width: 97
+        height: 583
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 68
+        width: 129
+        height: 568
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_7
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 65
+        width: 65
+        height: 579
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_8
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 54
+        width: 184
+        height: 588
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vine_9
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 54
+        width: 108
+        height: 566
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
